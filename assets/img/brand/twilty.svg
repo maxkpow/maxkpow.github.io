@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="36" viewBox="0 0 29 36">
+    <defs>
+      <linearGradient id="linear-gradient" x1="1.896" y1="0.643" x2="3.78" y2="0.643" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#a492e8"/>
+        <stop offset="1" stop-color="#fb9664"/>
+      </linearGradient>
+      <linearGradient id="linear-gradient-3" x1="1.896" y1="0.643" x2="3.78" y2="0.643" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="1" stop-color="#fb9664"/>
+      </linearGradient>
+      <clipPath id="clip-Монтажная_область_18">
+        <rect width="29" height="36"/>
+      </clipPath>
+    </defs>
+    <g id="Монтажная_область_18" data-name="Монтажная область – 18" clip-path="url(#clip-Монтажная_область_18)">
+      <rect width="29" height="36" fill="#aeb1b800"/>
+      <g id="Сгруппировать_1995" data-name="Сгруппировать 1995" transform="translate(0.178 0.5)">
+        <path id="Контур_1082" data-name="Контур 1082" d="M.5,0h5.99a.5.5,0,0,1,.5.5V28.145a.5.5,0,0,1-.5.5H.5a.5.5,0,0,1-.5-.5V.5A.5.5,0,0,1,.5,0Z" transform="translate(28.643 0) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Прямоугольник_901" data-name="Прямоугольник 901" width="6.986" height="7.03" rx="2" transform="translate(18.256 9.128) rotate(90)" fill="url(#linear-gradient)"/>
+        <path id="Контур_1083" data-name="Контур 1083" d="M.5,0H4.924a.5.5,0,0,1,.5.5v4.46a.5.5,0,0,1-.5.5H.5a.5.5,0,0,1-.5-.5V.5A.5.5,0,0,1,.5,0Z" transform="translate(6.346 0.778) rotate(90)" fill="url(#linear-gradient-3)"/>
+        <rect id="Прямоугольник_902" data-name="Прямоугольник 902" width="6.986" height="7.03" rx="2" transform="translate(18.256 18.571) rotate(90)" fill="url(#linear-gradient)"/>
+        <rect id="Прямоугольник_903" data-name="Прямоугольник 903" width="6.986" height="7.03" rx="2" transform="translate(18.256 28.014) rotate(90)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </svg>
+  
+  
